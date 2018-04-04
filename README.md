@@ -14,4 +14,5 @@ This repository contains Labs and usefull documents of Online Learning class
   - Lab3: Upper Confidence Bound algorithm (Stochastic Multi-Armed Bandits)
   
 ### Project
-Soon
+
+### **On Bayesian Bandit Problems**
