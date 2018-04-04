@@ -15,4 +15,4 @@ This repository contains Labs and usefull documents of Online Learning class
   
 ### Project
 
-#### On Bayesian Bandit Problems
+#### On Bayesian Bandit Problems (code will be available soon)
